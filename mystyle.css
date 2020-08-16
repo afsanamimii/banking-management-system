@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+#menu ul
+{
+	list-style: arabic-indic;
+}
+
+#menu ul li
+{
+	background-color: pink;
+	border:2 px  solid black;
+	width: 2 px;
+	height: 65 px;
+	line-height: 65 px;
+	text-align:center;
+	float: center;
+
+
+}
+#menu ul li a
+{
+	text-decoration:none;
+	color: white;
+	display: ruby-base-container;
+
+}
